@@ -1,6 +1,6 @@
 import * as React from 'react'
 import Layout from '../components/layout'
-import otterGIF from '../images/404.gif'
+import otterGIF from './404.gif'
 const NotFoundPage = () => (
     return (
         <Layout>
