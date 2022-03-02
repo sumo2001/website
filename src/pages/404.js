@@ -1,11 +1,5 @@
 import * as React from 'react'
 import Layout from '../components/layout'
 import otterGIF from './404.gif'
-const NotFoundPage = () => (
-    return (
-        <Layout>
-            <img src={otterGIF} alt="Otter dancing with a fish" />
-        </Layout>
-    )
-)
+![otter dancing with a fish](404.gif)
 export default NotFoundPage;
