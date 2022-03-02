@@ -1,14 +1,15 @@
 import React from "react"
-
+import otterGIF from '../images/404.gif'
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import SEO from "./seo"
 
 const NotFoundPage = () => (
-  <Layout>
-    <SEO title="404: Not found" />
-    <h1>404: Not Found</h1>
-    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
-  </Layout>
+    return (
+        <Layout>
+            <img src={otterGIF} alt="Otter dancing with a fish" />
+        </Layout>
+    )
 )
+
 
 export default NotFoundPage
