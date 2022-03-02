@@ -122,7 +122,7 @@ export default {
         "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers",
     },
     {
-      img: gnubashIcon,
+      img: bashIcon,
       para:
         "Bash (Bourne Again Shell) is the free and enhanced version of the Bourne shell distributed with Linux and GNU operating systems.",
     },
