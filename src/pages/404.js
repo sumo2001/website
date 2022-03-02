@@ -1,8 +1,6 @@
-import React from "react"
+import * as React from 'react'
+import Layout from '../components/layout'
 import otterGIF from '../images/404.gif'
-import Layout from "../components/layout"
-import SEO from "./seo"
-
 const NotFoundPage = () => (
     return (
         <Layout>
@@ -10,6 +8,4 @@ const NotFoundPage = () => (
         </Layout>
     )
 )
-
-
-export default NotFoundPage
+export default NotFoundPage;
