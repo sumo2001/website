@@ -1,25 +1,15 @@
-import React from 'react';
-import Image from 'react-image-resizer';
-import cur from './404.gif';
+import React from "react"
+import logo from "./404.gif"
+import Layout from "../components/layout"
+import SEO from "../components/seo"
 
-function NotFoundPage() {
+const NotFoundPage = () => (
+  <Layout>
+    <SEO title="404: Not found" />
+    <div className="errorpage">
+        <img src={logo} alt="howle"  />
+    </div>
+  </Layout>
+)
 
-    return (
-      <div>
-        <Image src={cur} alt="cur" className="center"/>
-      </div>
-    );
-
-}
-
-export default NotFoundPage;
-
-
-
-
-.center{
-text-align:center;//for texts
-height:100%;
-display:flex; 
-align-items:center;
-justify-content:center;
+export default NotFoundPage
