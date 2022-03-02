@@ -157,7 +157,7 @@ export default {
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "My work matters.",
+  promotionHeading: "Matters.",
   promotionPara:
     "You will have massive doubt. One day you will feel strongly about something, then the next day you will wonder if your work and your dream really even matters. It does. But, you have to remind yourself of that all the time. Your work is real. If you stop, if you quit…something is lost forever. Your work makes a difference. Keep going.",
   // End Promotion Section -----------------
