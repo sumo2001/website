@@ -1,15 +1,22 @@
 // Skills Icons
-import htmlIcon from "./images/html.svg"
-import cssIcon from "./images/css.svg"
-import reactIcon from "./images/react.svg"
-import jsIcon from "./images/javascript.svg"
-import designIcon from "./images/design.svg"
-import codeIcon from "./images/code.svg"
+import awsIcon from "./images/amamzonaws.svg"
+import apacheIcon from "./images/apache.svg"
+import dockerIcon from "./images/docker.svg"
+import bashIcon from "./images/gnubash.svg"
+import kubernetesIcon from "./images/kubernetes.svg"
+import linuxIcon from "./images/linux.svg"
+import nginxIcon from "./images/nginx.svg"
+import rocketchatIcon from "./images/rocketdotchat.svg"
+import terraformIcon from "./images/terraform.svg"
+
+
 
 // Social Icon
 import githubIcon from "./images/github.svg"
-import codepenIcon from "./images/codepen.svg"
-import dribbbleIcon from "./images/dribbble.svg"
+import linkedinIcon from "./images/linkedin.svg"
+import tryhackmeIcon from "./images/tryhackme.svg"
+import researchgateIcon from "./images/researchgate.svg"
+import mediumIcon from "./images/medium.svg"
 import instagramIcon from "./images/instagram.svg"
 
 export default {
@@ -17,14 +24,14 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "sumo :)",
+  name: "Sumo",
   headerTagline: [
     //Line 1 For Header
-    "Ethical Hacking",
+    "Ethical Hacking,",
     //Line 2 For Header
     "Cloud Computing,",
     //Line 3 For Header
-    "DevOps",
+    "DevOps.",
   ],
   //   Header Paragraph
   headerParagraph:
@@ -43,7 +50,7 @@ export default {
         "Trishul is an ultimate collection framework to do recon", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1646043388105-3102a5013b80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
+        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/sumo2001/Trishul",
     },
@@ -90,7 +97,7 @@ export default {
   aboutParaThree:
     "Committed to improving network uptime and system availability,enriching and enhancing myself better everyday",
   aboutImage:
-    "https://images.unsplash.com/photo-1646175948191-dd2fcdc68f3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=334&q=80",
+    "https://images.unsplash.com/photo-1646175948191-dd2fcdc68f3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=364&q=81",
 
   //   End About Section ---------------------
 
@@ -100,34 +107,49 @@ export default {
 
   skills: [
     {
-      img: htmlIcon,
+      img: apacheIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Apache HTTP Server is a free and open-source web server that delivers web content through the internet, It is commonly referred to as apache, it quickly became the most popular HTTP client on the web.",
     },
     {
-      img: cssIcon,
+      img: awsIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally.",
     },
     {
-      img: jsIcon,
+      img: dockerIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers",
     },
     {
-      img: reactIcon,
+      img: gnubashIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Bash (Bourne Again Shell) is the free and enhanced version of the Bourne shell distributed with Linux and GNU operating systems.",
     },
     {
-      img: designIcon,
+      img: kubernetesIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and managemen",
     },
     {
-      img: codeIcon,
+      img: linuxIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Just like Windows, iOS, and Mac OS, Linux is an operating system. In fact, one of the most popular platforms on the planet, Android, is powered by the Linux operating system.",
+    },
+    {
+      img: nginxIcon,
+      para:
+        "Nginx, stylized as NGIИX, is a web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache",
+    },
+    {
+      img: rocketdotchatIcon,
+      para:
+        "Rocket. Chat is a fully customizable communications platform for organizations with high standards of data protection",
+    },
+    {
+      img: terraformIcon,
+      para:
+        "Terraform is our tool of choice to manage the entire lifecycle of infrastructure using infrastructure as code",
     },
   ],
 
@@ -135,9 +157,9 @@ export default {
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "Heading",
+  promotionHeading: "My work matters.",
   promotionPara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "You will have massive doubt. One day you will feel strongly about something, then the next day you will wonder if your work and your dream really even matters. It does. But, you have to remind yourself of that all the time. Your work is real. If you stop, if you quit…something is lost forever. Your work makes a difference. Keep going.",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
@@ -147,20 +169,26 @@ export default {
     // Add Or Remove The Link Accordingly
     { img: githubIcon, url: "https://github.com/sumo2001" },
     {
-      img: codepenIcon,
-      url: "https://www.codepen.com/",
+      img: linkedinIcon,
+      url: "https://www.linkedin.com/in/sumanth-dodda/",
     },
     {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
+      img: tryhackmeIcon,
+      url: "https://tryhackme.com/p/AlLMight",
+    },
+    {
+      img: mediumIcon,
+      url: "https://sumododda.medium.com/",
+    },
+    {
+      img: researchgateIcon,
+      url: "https://www.researchgate.net/profile/Sumanth-Dodda",
     },
     {
       img: instagramIcon,
-      url: "https://www.instagram.com/",
+      url: "https://www.instagram.com/iamcybermight",
     },
   ],
 
   // End Contact Section ---------------
 }
-
-// Thanks for using this template, I would love to hear from you contact me at hello@chetanverma.com
