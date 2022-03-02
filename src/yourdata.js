@@ -1,5 +1,5 @@
 // Skills Icons
-import awsIcon from "./images/amamzonaws.svg"
+import awsIcon from "./images/amazonaws.svg"
 import apacheIcon from "./images/apache.svg"
 import dockerIcon from "./images/docker.svg"
 import bashIcon from "./images/gnubash.svg"
