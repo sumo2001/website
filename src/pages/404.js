@@ -6,11 +6,7 @@ import SEO from "../components/seo"
 const NotFoundPage = () => (
   <Layout>
     <SEO title="404: Not found" />
-    <img src={logo} alt="loading..." 
-        height={350}
-        width={700}
-        style={{ alignSelf: 'center' }}
-/>
+    <img src={logo} className="center" />
   </Layout>
 )
 
