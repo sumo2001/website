@@ -16,10 +16,6 @@ export default NotFoundPage;
 
 
 
-body,html{
-   height:100%,
-   min-height:100%
-}
 
 .center{
 text-align:center;//for texts
