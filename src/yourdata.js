@@ -38,7 +38,7 @@ export default {
     "If you can dream it, You can do it ;)",
 
   //Contact Email
-  contactEmail: "https://www.linkedin.com/in/sumanth-dodda/",
+  contactEmail: "hello@sumododda.me",
 
   // End Header Details -----------------------
 
