@@ -50,7 +50,7 @@ export default {
         "Trishul is an ultimate collection framework to do recon", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/sumo2001/Trishul",
     },
@@ -97,7 +97,7 @@ export default {
   aboutParaThree:
     "Committed to improving network uptime and system availability,enriching and enhancing myself better everyday",
   aboutImage:
-    "https://images.unsplash.com/photo-1646175948191-dd2fcdc68f3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=364&q=81",
+    "https://images.unsplash.com/photo-1650733790397-c986514bfb49?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=364&q=81",
 
   //   End About Section ---------------------
 
