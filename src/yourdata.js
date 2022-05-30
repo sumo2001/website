@@ -96,7 +96,8 @@ projects: [
     },
     {
       title: "Prep Notes", //Project Title - Add Your Project Title Here
-      description: "This is my personal notes for everything i learn, feel free to use it :) ",
+      para: 
+	  "This is my personal notes for everything i learn, feel free to use it :) ",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
