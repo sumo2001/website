@@ -44,7 +44,6 @@ export default {
 
   // Work Section ------------------------
   projects: [
-projects: [
     {
 		title: "Trishul", //Project Title - Add Your Project Title Here
 		para:
