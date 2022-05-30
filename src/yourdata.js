@@ -43,7 +43,7 @@ export default {
   // End Header Details -----------------------
 
   // Work Section ------------------------
-  projects: [
+projects: [
     {
 		title: "Trishul", //Project Title - Add Your Project Title Here
 		para:
@@ -55,9 +55,9 @@ export default {
       url: "https://github.com/sumo2001/Trishul",
     },
     {
-		title: "Intrusion-Detection-System-based-on-anomaly", //Project Title - Add Your Project Title Here
-		para:
-		  "IDS utilizes various conventional strategies for checking the misuses of weaknesses.",
+	title: "Intrusion-Detection-System-based-on-anomaly", //Project Title - Add Your Project Title Here
+	para:
+	    "IDS utilizes various conventional strategies for checking the misuses of weaknesses.",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
@@ -65,9 +65,9 @@ export default {
       url: "https://github.com/sumo2001/Intrusion-Detection-System-based-on-anomaly/blob/main/fianl_cyber.pdf",
     },
     {
-		title: "Binding-payload-within-images", //Project Title - Add Your Project Title Here
-		para:
-		  "Hypothesis of a computer virus threat, and how destructive it can be??.", // Add Your Service Type Here
+	title: "Binding-payload-within-images", //Project Title - Add Your Project Title Here
+	para:
+	    "Hypothesis of a computer virus threat, and how destructive it can be??.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
@@ -75,9 +75,9 @@ export default {
       url: "https://github.com/sumo2001/Binding-payload-within-images/blob/main/final_vapt.pdf",
     },
     {
-		title: "fibonacci-kubernetes", //Project Title - Add Your Project Title Here
-		para:
-		  "Multi-tiered kubernetes fibonacci application", // Add Your Service Type Here
+	title: "fibonacci-kubernetes", //Project Title - Add Your Project Title Here
+	para:
+            "Multi-tiered kubernetes fibonacci application", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
@@ -87,7 +87,7 @@ export default {
     {
       title: "fibonacci-docker", //Project Title - Add Your Project Title Here
       para:
-	  "This is a complex multi-tiered docker application in the process of learning docker technologies"
+	  "This is a complex multi-tiered docker application in the process of learning docker technologies",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
@@ -103,6 +103,7 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "https://github.com/sumo2001/Prep-Notes",
     },
+
 
   ],
 
