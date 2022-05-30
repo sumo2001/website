@@ -136,21 +136,6 @@ export default {
       para:
         "Just like Windows, iOS, and Mac OS, Linux is an operating system. In fact, one of the most popular platforms on the planet, Android, is powered by the Linux operating system.",
     },
-    {
-      img: nginxIcon,
-      para:
-        "Nginx, stylized as NGIИX, is a web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache",
-    },
-    {
-      img: rocketchatIcon,
-      para:
-        "Rocket. Chat is a fully customizable communications platform for organizations with high standards of data protection",
-    },
-    {
-      img: terraformIcon,
-      para:
-        "Terraform is our tool of choice to manage the entire lifecycle of infrastructure using infrastructure as code",
-    },
   ],
 
   // End Skills Section --------------------------
