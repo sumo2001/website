@@ -130,7 +130,7 @@ projects: [
     {
       img: apacheIcon,
       para:
-        "Apache HTTP Server is a free and open-source web server that delivers web content through the internet, It is commonly referred to as apache, it quickly became the most popular HTTP client on the web.",
+        "Active Directory allows network administrators to create and manage domains, users, and objects within a network. For example, an admin can create a group of users and give them specific access privileges to certain directories on the server",
     },
     {
       img: awsIcon,
