@@ -38,7 +38,7 @@ export default {
     "If you can dream it, You can do it ;)",
 
   //Contact Email
-  contactEmail: "hello@sumododda.me",
+  contactEmail: "doddasumo@gmail.com",
 
   // End Header Details -----------------------
 
